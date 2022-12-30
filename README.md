@@ -1,2 +1,0 @@
-# BuildHost
-Hosting webGL builds
